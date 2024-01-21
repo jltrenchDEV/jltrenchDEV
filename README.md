@@ -1,5 +1,5 @@
 ### :wave: hi!
-im jltrench
+
 this is my xp profile.
 
 
