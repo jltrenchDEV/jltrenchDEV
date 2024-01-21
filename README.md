@@ -1,9 +1,16 @@
-### :sparkles: hi!
+### :wave: hi!
+im jltrench
+this is my xp profile.
+
 
 fullstack engineer with 愛
 
-#### :artificial_satellite: about me
+#### :exclamation: about me
 
 - [my main/professional profile](https://github.com/sxhkexp)
-
+- front: react, next.
+- backend: node/nestjs, fastify.
+- mobile: flutter-dart.
+- databases: mysql, postgres, mongodb.
+- currently learning: golang.
 
